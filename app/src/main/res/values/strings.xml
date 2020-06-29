@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DailyDoge</string>
+    <string name="listItemImageViewContentDescription">Image of the doge</string>
+    <string name="fab_text">Give doge</string>
+</resources>
